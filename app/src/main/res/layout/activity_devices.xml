@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#726767"
+    tools:context=".Devices">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="20dp"
+            android:fontFamily="@font/bungee"
+            android:textSize="18sp"
+            android:text="REGISTERED DEVICES"
+            android:textAlignment="center" />
+
+        <Button
+            android:id="@+id/btn_1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#291614"
+            android:layout_margin="20dp"
+            android:fontFamily="@font/bungee"
+            android:text="DEVICE 1"
+            android:textColor="#E6AA55" />
+
+        <Button
+            android:id="@+id/btn_2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#291614"
+            android:layout_margin="20dp"
+            android:fontFamily="@font/bungee"
+            android:text="DEVICE 2"
+            android:textColor="#E6AA55" />
+
+        <Button
+            android:id="@+id/btn_3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#291614"
+            android:layout_margin="20dp"
+            android:fontFamily="@font/bungee"
+            android:text="DEVICE 3"
+            android:textColor="#E6AA55" />
+
+        <Button
+            android:id="@+id/btn_4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#291614"
+            android:layout_margin="20dp"
+            android:fontFamily="@font/bungee"
+            android:text="DEVICE 4"
+            android:textColor="#E6AA55" />
+
+        <Button
+            android:id="@+id/btn_5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#291614"
+            android:layout_margin="20dp"
+            android:fontFamily="@font/bungee"
+            android:text="DEVICE 5"
+            android:textColor="#E6AA55" />
+
+        <Button
+            android:id="@+id/btn_6"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#291614"
+            android:layout_margin="20dp"
+            android:fontFamily="@font/bungee"
+            android:text="DEVICE 6"
+            android:textColor="#E6AA55" />
+
+        <Button
+            android:id="@+id/btn_7"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#291614"
+            android:layout_margin="20dp"
+            android:fontFamily="@font/bungee"
+            android:text="DEVICE 7"
+            android:textColor="#E6AA55" />
+
+        <Button
+            android:id="@+id/btn_8"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#291614"
+            android:layout_margin="20dp"
+            android:fontFamily="@font/bungee"
+            android:text="DEVICE 8"
+            android:textColor="#E6AA55" />
+
+        <Button
+            android:id="@+id/btn_9"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#291614"
+            android:layout_margin="20dp"
+            android:fontFamily="@font/bungee"
+            android:text="DEVICE 9"
+            android:textColor="#E6AA55" />
+
+        <Button
+            android:id="@+id/btn_10"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#291614"
+            android:layout_margin="20dp"
+            android:fontFamily="@font/bungee"
+            android:text="DEVICE 10"
+            android:textColor="#E6AA55" />
+
+        <Button
+            android:id="@+id/btn_11"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#291614"
+            android:layout_margin="20dp"
+            android:fontFamily="@font/bungee"
+            android:text="DEVICE 11"
+            android:textColor="#E6AA55" />
+
+
+
+    </LinearLayout>
+
+</ScrollView>

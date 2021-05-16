@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1016944462252",
+    "project_id": "hotelstaff-70486",
+    "storage_bucket": "hotelstaff-70486.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016944462252:android:c978ea4d2a478bdfd29209",
+        "android_client_info": {
+          "package_name": "com.example.hotelstaff"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1016944462252-m0a3mjov2v0bvslhehulfjtbh1bgjs6o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hotelstaff",
+            "certificate_hash": "2a4676cfd83357f8775eba7b02b4077f2dcd3070"
+          }
+        },
+        {
+          "client_id": "1016944462252-3td98tvh2gi6neg3e38ao4jcaqrl22ol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWaoYUpBk2iRPp9hNMW5zF_EoAOp1WEkc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1016944462252-3td98tvh2gi6neg3e38ao4jcaqrl22ol.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
